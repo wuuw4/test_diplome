@@ -1,0 +1,14 @@
+C:\Users\xd\source\repos\DiplomeConsApp\bin\Debug\net8.0\DiplomeConsApp.exe
+C:\Users\xd\source\repos\DiplomeConsApp\bin\Debug\net8.0\DiplomeConsApp.deps.json
+C:\Users\xd\source\repos\DiplomeConsApp\bin\Debug\net8.0\DiplomeConsApp.runtimeconfig.json
+C:\Users\xd\source\repos\DiplomeConsApp\bin\Debug\net8.0\DiplomeConsApp.dll
+C:\Users\xd\source\repos\DiplomeConsApp\bin\Debug\net8.0\DiplomeConsApp.pdb
+C:\Users\xd\source\repos\DiplomeConsApp\obj\Debug\net8.0\DiplomeConsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xd\source\repos\DiplomeConsApp\obj\Debug\net8.0\DiplomeConsApp.AssemblyInfoInputs.cache
+C:\Users\xd\source\repos\DiplomeConsApp\obj\Debug\net8.0\DiplomeConsApp.AssemblyInfo.cs
+C:\Users\xd\source\repos\DiplomeConsApp\obj\Debug\net8.0\DiplomeConsApp.csproj.CoreCompileInputs.cache
+C:\Users\xd\source\repos\DiplomeConsApp\obj\Debug\net8.0\DiplomeConsApp.dll
+C:\Users\xd\source\repos\DiplomeConsApp\obj\Debug\net8.0\refint\DiplomeConsApp.dll
+C:\Users\xd\source\repos\DiplomeConsApp\obj\Debug\net8.0\DiplomeConsApp.pdb
+C:\Users\xd\source\repos\DiplomeConsApp\obj\Debug\net8.0\DiplomeConsApp.genruntimeconfig.cache
+C:\Users\xd\source\repos\DiplomeConsApp\obj\Debug\net8.0\ref\DiplomeConsApp.dll
